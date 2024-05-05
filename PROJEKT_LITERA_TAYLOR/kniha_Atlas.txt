@@ -1,6 +1,0 @@
-Kniha: Atlas
-Název autora: Yuan
-Rok vydání: 19992
-Typ knihy: Ucebnice
-Trida: 3
-Dostupnost: vracene
