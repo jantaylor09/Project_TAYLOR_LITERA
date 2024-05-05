@@ -1,0 +1,6 @@
+Kniha: To
+Název autora: Steven K
+Rok vydání: 1928
+Typ knihy: Roman
+Zanr: Horor
+Dostupnost: vracene
